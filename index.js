@@ -55,7 +55,7 @@ const questions = [
 // TODO: Create a function to initialize app
 function init() {
   inquirer.prompt(questions).then((response) => {
-    fs.writeFile("README.md", generateMarkdown(response), (err) => {
+    fs.writeFile("dist/README.md", generateMarkdown(response), (err) => {
       if (err) console.log(err);
       console.log("Success!");
     });
