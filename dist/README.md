@@ -1,8 +1,8 @@
-# README
+# README Generator 
    ![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
 
   ## Description
-  Generator
+  Professional README generator
 
   ## Table of contents 
   - [Installation](#installation)
@@ -13,19 +13,19 @@
   - [Questions](#questions)
 
   ## Installation 
-  N/A
+  npm i 
 
   ## Usage
-  N/A
+  npm start 
 
   ## Contributions 
-  N/A
+  Fork - project pull request 
 
   ## License
 This project is licensed under the MIT license
 
   ## Testing 
-  N/
+  npm run test 
 
   ## Questions 
   If you have any questions please email me at nlad218@gmail.com
