@@ -39,3 +39,7 @@ npm run test
 
 If you have any questions please email me at nlad218@gmail.com
 If you want to see more of my work please visit me at [nlad218](https://github.com/nlad218)
+
+## Video link
+
+![Alt text](<assets/Screen Recording 2023-09-19 at 9.20.22 PM.mov>)
